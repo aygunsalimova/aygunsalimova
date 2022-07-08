@@ -40,6 +40,5 @@
 </details>
 [facebook]: https://www.facebook.com/aygunme <br />
 [twitter]: https://twitter.com/salimova_aygun <br />
-[instagram]: https://instagram.com/aygun_me_ <br />
 [linkedin]: https://linkedin.com/in/aygunsalimova <br />
 
