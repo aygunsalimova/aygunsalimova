@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Frontend Programming
 - 👯 I’m looking for a new opportunities with other developers
 - 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to reading book & watching comedy films
+- ⚡ Fun fact: I love reading books & watching romantic-comedy films
 
 ### Languages and Tools:
 
