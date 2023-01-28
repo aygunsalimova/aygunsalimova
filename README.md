@@ -3,8 +3,8 @@
 
 ## I'm a Student and Developer!!
 
-- 🌱 I’m currently learning MERN Stack Development
-- 👯 I’m looking for a new opportunities with other developers
+- 🌱 currently learning MERN Stack Development
+- 👯 looking for a new opportunities with other developers
 - 🥅 2023 Goals: Learn MERN Stack deeply
 - ⚡ Fun fact: I love reading books & walking around the country
 
