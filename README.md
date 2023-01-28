@@ -3,10 +3,10 @@
 
 ## I'm a Student and Developer!!
 
-- 🌱 I’m currently learning Frontend Programming
+- 🌱 I’m currently learning MERN Stack Development
 - 👯 I’m looking for a new opportunities with other developers
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love reading books & watching romantic-comedy films
+- 🥅 2023 Goals: Learn MERN Stack deeply
+- ⚡ Fun fact: I love reading books & walking around the country
 
 ### Languages and Tools:
 
