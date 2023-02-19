@@ -1,7 +1,7 @@
 # Hi there, I'm Aygun 👋 
 
 
-## I'm a Student and Developer!!
+## I'm a CS Student and Developer!!
 
 - 🌱 currently learning MERN Stack Development
 - 👯 looking for a new opportunities with other developers
