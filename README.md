@@ -38,7 +38,5 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aygunsalimova&show_icons=true&theme=gotham" />
 
 </details>
-[facebook]: https://www.facebook.com/aygunme <br />
-[twitter]: https://twitter.com/salimova_aygun <br />
 [linkedin]: https://linkedin.com/in/aygunsalimova <br />
 
