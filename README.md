@@ -1,12 +1,12 @@
 # Hi there, I'm Aygun 👋 
 
 
-## I'm a CS Student and Developer!!
+## I'm a Junior Software Developer!!
 
 - 🌱 currently learning MERN Stack Development
 - 👯 looking for a new opportunities with other developers
-- 🥅 2023 Goals: Learn MERN Stack deeply
-- ⚡ Fun fact: I love reading books & walking around the country
+- 🥅 2023 Goals: Learn MERN deeply
+- ⚡ Fun fact: I love hiking and travelling
 
 ### Languages and Tools:
 
