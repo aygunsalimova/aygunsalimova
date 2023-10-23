@@ -1,12 +1,7 @@
 # Hi there, I'm Aygun 👋 
 
 
-## I'm a Junior Software Developer!!
-
-- 🌱 currently learning MERN Stack Development
-- 👯 looking for a new opportunities with other developers
-- 🥅 2023 Goals: Learn MERN deeply
-- ⚡ Fun fact: I love hiking and travelling
+## I'm a Junior Software (Front-End) Developer!!
 
 ### Languages and Tools:
 
