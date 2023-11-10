@@ -1,7 +1,7 @@
 # Hi there, I'm Aygun 👋 
 
 
-## I'm a Junior Software (Front-End) Developer!!
+## I'm a Software (Front-End) Developer!!
 
 ### Languages and Tools:
 
