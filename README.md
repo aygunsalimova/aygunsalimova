@@ -26,6 +26,8 @@
  <img align="left" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aygunsalimova"/>
 
 </details>
+<br/>
+<br/>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
