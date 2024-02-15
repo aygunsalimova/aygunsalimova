@@ -18,7 +18,6 @@
 
 
 <br />
-<br />
 
 <details>
 
@@ -26,7 +25,6 @@
  <img align="left" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aygunsalimova"/>
 
 </details>
-<br/>
 <br/>
 
 <details>
@@ -36,8 +34,6 @@
 
 </details>
 
-
-<br/>
 <br/>
 [linkedin]: https://linkedin.com/in/aygunsalimova <br />
 
