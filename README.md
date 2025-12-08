@@ -1,7 +1,7 @@
 # Hi there, I'm Aygun 👋 
 
 
-## I'm a Software Developer!!
+## I'm a Blockchain Security Engineer!!
 
 
 <br/>
