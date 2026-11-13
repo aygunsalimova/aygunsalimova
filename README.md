@@ -31,7 +31,7 @@ M.S. student in Computer Engineering (Cyber Security) at **Ajou University**, So
 
 ## Find me
 
-- LinkedIn: [profile](https://www.linkedin.com/in/aygunsalimova/)
+- LinkedIn: [Aygun Salimova](https://www.linkedin.com/in/aygunsalimova/)
 - Email: aygunsalimovaa@gmail.com
 
 Feel free to reach out me!
