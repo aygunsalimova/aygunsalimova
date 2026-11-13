@@ -20,6 +20,7 @@ M.S. student in Computer Engineering (Cyber Security) at **Ajou University**, So
 ## Tech
 
 **Research:** blockchain, applied cryptography, IoT security
+
 **Engineering:** React, TypeScript, Next.js, Redux, blockchain testing
 
 <!--
