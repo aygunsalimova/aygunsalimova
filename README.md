@@ -22,13 +22,14 @@ M.S. student in Computer Engineering (Cyber Security) at **Ajou University**, So
 **Research:** blockchain, applied cryptography, IoT security
 **Engineering:** React, TypeScript, Next.js, Redux, blockchain testing
 
+<!--
 ## Featured projects
 
-<!-- Match these to the repos you pin. -->
+ Match these to the repos you pin. 
 - [**project-name**](LINK): one sentence on what it does
 - [**project-name**](LINK): one sentence on what it does
 - [**project-name**](LINK): one sentence on what it does
-
+-->
 ## Find me
 
 - LinkedIn: [Aygun Salimova](https://www.linkedin.com/in/aygunsalimova/)
