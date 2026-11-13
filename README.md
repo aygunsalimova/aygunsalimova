@@ -12,9 +12,9 @@ M.S. student in Computer Engineering (Cyber Security) at **Ajou University**, So
 ## Selected publications
 
 <!-- Replace with your real papers. Keep each to one line. -->
-📄 *Dual-Certificate Architecture for Secure IoT-to-Blockchain RWA Tokenization* — Milan, Italy, ICUFN 2026 · [Dual-Certificate Architecture for Secure IoT-to-Blockchain RWA Tokenization](https://ieeexplore.ieee.org/abstract/document/11628733) · [code]([Code] (https://github.com/aygunsalimova/Dual-Certificate-Architecture-for-Secure-IoT-to-Blockchain-RWA-Tokenization)) 
+📄 *Dual-Certificate Architecture for Secure IoT-to-Blockchain RWA Tokenization* — Milan, Italy, ICUFN 2026 · [🔗](https://ieeexplore.ieee.org/abstract/document/11628733) · [code]([Code] (https://github.com/aygunsalimova/Dual-Certificate-Architecture-for-Secure-IoT-to-Blockchain-RWA-Tokenization)) 
 
-📄 *A Conceptual Framework for LLM-Assisted Cyber Threat Intelligence Sharing in IoT Environments* — South Korea, ITFE 2026 · [A Conceptual Framework for LLM-Assisted Cyber Threat Intelligence Sharing in IoT Environments](https://www.earticle.net/Article/A493162) 
+📄 *A Conceptual Framework for LLM-Assisted Cyber Threat Intelligence Sharing in IoT Environments* — South Korea, ITFE 2026 · [🔗](https://www.earticle.net/Article/A493162) 
 
 
 ## Tech
