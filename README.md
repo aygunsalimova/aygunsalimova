@@ -1,6 +1,6 @@
 # Hi, I'm Aygun 👋
 
-M.S. student in Computer Engineering (Cyber Security) at **Ajou University**, South Korea. I do research at **iLab**, focusing on IoT-blockchain security and decentralized trust. Before grad school, I worked as a software engineer in Ireland and Azerbaijan.
+M.S. student in Computer Engineering (Cyber Security) at **Ajou University**, South Korea. I do research at **iLab**, focusing on IoT-blockchain security and decentralized trust. 
 
 ## What I work on
 
